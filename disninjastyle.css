@@ -1,0 +1,42 @@
+*{
+height: auto;
+width: auto;
+}
+body, h1, h2, h3, h4, h5, h6{
+margin: 0px;
+padding: 0px;
+}
+
+img{
+height: 150px;
+width: 150px;
+margin: 15px;
+display: inline-block;
+position: relative;
+
+}
+
+#toprow{
+height: 150px;
+width: 1000px;
+display: inline-block;
+position: relative;
+
+}
+
+#bottomrow{
+height: 150px;
+width: 1000px;
+display: inline-block;
+position: relative;
+
+}
+
+#restore{
+height: 10px;
+width: 200px;
+display: inline-block;
+position: relative;
+right: 1000px;
+}
+
